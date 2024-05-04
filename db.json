@@ -1,0 +1,25 @@
+{
+  "popularDestinations": [
+    {
+      "id": 1,
+      "name": "Rio de Janeiro",
+      "description": "Is a coastal city in Brazil, famous for its Copacabana beaches, the 38 m high statue of Christ the Redeemer on Corcovado Hill and Sugarloaf Mountain, a granite peak with cable cars ascending to its summit.",
+      "flight price": "$200",
+      "hotelPrice": "$300/day"
+    },
+    {
+      "id": 2,
+      "name": "Cusco",
+      "description": "Cuzco is a city in the Peruvian Andes that was the capital of the Inca Empire and is known for its archaeological remains and Spanish colonial architecture.",
+      "flight price": "$100",
+      "hotelPrice": "$100/day"
+    },
+    {
+      "id": 3,
+      "name": "Sevilla",
+      "description": "The Plaza de España is an architectural complex located in the María Luisa Park in the city of Seville. It was designed by the architect Aníbal González. It was built between 1914 and 1929 and is the largest construction of the Ibero-American Exposition of 1929.​​​​",
+      "flight price": "$100",
+      "hotelPrice": "$100/day"
+    }
+  ]
+}
