@@ -30,13 +30,13 @@
       "offerPrice": "$70 (Discount applied)"
     },
     {
-      "id"= 2,
+      "id": 2,
       "offersName": "School discount to Mexico!!!",
       "offerDescription": "At the end of the year we are offering a 20% discount on flight tickets for promotional student trips."
       "offerPrice": "$85 (Discount applied)"
     },
     {
-      "id"= 3,
+      "id": 3,
       "offersName": "Discount on first class flights!!!",
       "offerDescription": "Por tu primer viaje organizado por nosotros accederas al descuento exclusivo del 50% de descuento en algun vuelo de primera clase."
       "offerPrice": "$100 (Discount applied)"
