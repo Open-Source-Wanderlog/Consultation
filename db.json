@@ -26,19 +26,19 @@
     {
       "id": 1,
       "offersName": "Discounts on trips to Cusco!!!",
-      "offerDescription": "For this hot month, we offer a 30% discount on flights to Cusco, exclusively for tourism trips."
+      "offerDescription": "For this hot month, we offer a 30% discount on flights to Cusco, exclusively for tourism trips.",
       "offerPrice": "$70 (Discount applied)"
     },
     {
       "id": 2,
       "offersName": "School discount to Mexico!!!",
-      "offerDescription": "At the end of the year we are offering a 20% discount on flight tickets for promotional student trips."
+      "offerDescription": "At the end of the year we are offering a 20% discount on flight tickets for promotional student trips.",
       "offerPrice": "$85 (Discount applied)"
     },
     {
       "id": 3,
       "offersName": "Discount on first class flights!!!",
-      "offerDescription": "Por tu primer viaje organizado por nosotros accederas al descuento exclusivo del 50% de descuento en algun vuelo de primera clase."
+      "offerDescription": "Por tu primer viaje organizado por nosotros accederas al descuento exclusivo del 50% de descuento en algun vuelo de primera clase.",
       "offerPrice": "$100 (Discount applied)"
     }
   ]
